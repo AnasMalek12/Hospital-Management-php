@@ -1,6 +1,7 @@
-# Hospital Management php
 
- **Admin Login Details**
+
+
+**Admin Login Details**
 
 Email   : admin@mail.com
 Password: Password@123
@@ -10,4 +11,5 @@ Password: Password@123
 
 ID      : YDS7L
 Password: password
+
 
